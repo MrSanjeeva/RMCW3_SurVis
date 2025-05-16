@@ -187,16 +187,6 @@
         "url": "https://arxiv.org/abs/2409.11192",
         "year": "2024"
     },
-    "osti_10284694": {
-        "abstract": "Artificial Intelligence, intelligence demonstrated by machines, has emerged as one of the most convenient and personable applications of everyday life. Specifically, AI powers digital personal assistants to answer user questions and automate everyday tasks. AI Assistants listen continuously to answer the user, even when not in use. Why is this a problem? For a hacker, this makes any digital assistant a potential listening device, a major security and privacy issue. While some companies are handling this situation well, others are falling behind as their AI components are slowly dying in the consumer market. Which digital assistant is best and most secure you may ask? This paper will first detail how each AI assistant works from a technical perspective. Then based on survey results, this paper will detail how AI Assistants rank in terms of overall security and performance",
-        "author": "Collins, I. and Boonthum-Denecke, C.",
-        "journal": "ADMI 2021: The Symposium of Computing at Minority Institutions",
-        "keywords": "type: Artificial Intelligence, privacy, personal information, vulnerabilities, natural language processing",
-        "series": "N/A",
-        "title": "Artificial Intelligence Assistants: Convenient vs. Security and Privacy",
-        "type": "article",
-        "url": "https://par.nsf.gov/biblio/10284694"
-    },
     "rahman2025multiagentactorcriticgenerativeai": {
         "abstract": "In this paper, we introduce MASQRAD (MultiAgent Strategic Query Resolution and Diagnostic tool), a transformative framework for query resolution based on the actorcritic model, which utilizes multiple generative AI agents. MASQRAD is excellent at translating imprecise or ambiguous user inquiries into precise and actionable requests. This framework generates pertinent visualizations and responses to these focused queries, as well as thorough analyses and insightful interpretations for users. MASQRAD addresses the common shortcomings of existing solutions in domains that demand fast and precise data interpretation, such as their incapacity to successfully apply AI for generating actionable insights and their challenges with the inherent ambiguity of user queries. MASQRAD functions as a sophisticated multi-agent system but \u201cmasquerades\u201d to users as a single AI entity, which lowers errors and enhances data interaction. This approach makes use of three primary AI agents: Actor Generative AI, Critic Generative AI, and Expert Analysis Generative AI. Each is crucial for creating, enhancing, and evaluating data interactions. The Actor AI generates Python scripts to generate data visualizations from large datasets within operational constraints, and the Critic AI rigorously refines these scripts through multi-agent debate. Finally, the Expert Analysis AI contextualizes the outcomes to aid in decision-making. With an accuracy rate of 87% when handling tasks related to natural language visualization, MASQRAD establishes new benchmarks for automated data interpretation and showcases a noteworthy advancement that has the potential to revolutionize AI-driven applications.",
         "archiveprefix": "arXiv",
